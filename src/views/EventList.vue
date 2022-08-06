@@ -9,7 +9,7 @@
 import EventCart from '@/components/EventCart.vue'
 
 export default {
-  name: 'HomeView',
+  name: 'EventList',
   components: {
     EventCart
   },
